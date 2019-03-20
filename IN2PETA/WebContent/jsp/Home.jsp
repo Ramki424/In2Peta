@@ -7,7 +7,8 @@
 <title>In2Peta</title>
 </head>
 <body>
-<div align="center"><h3>Welcome To The World Of Innovative Services</h3></div>
+<table><tr><td>IN2PETA</td><td>Services</td><td>Products</td><td>Events</td><td>GetIn</td></tr></table>
+<table><tr><td style="margin: 500px"><img src="../images/test.jpg" /></td></tr></table>
 <div id="signIn">
 	<table align="center">
 		<tbody>
