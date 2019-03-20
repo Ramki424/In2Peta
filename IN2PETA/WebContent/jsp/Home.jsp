@@ -4,9 +4,19 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>In2Peta</title>
 </head>
 <body>
-
+<div align="center"><h3>Welcome To The World Of Innovative Services</h3></div>
+<div id="signIn">
+	<table align="center">
+		<tbody>
+			<tr><td>User Name</td><td><input type="text" id="userName"/></td></tr>
+			<tr><td>Password</td><td><input type="password" id="userName"/></td></tr>
+			<tr><td colspan=2 align="center">GetIn</td></tr>
+		</tbody>
+		
+	</table>
+</div>
 </body>
 </html>
